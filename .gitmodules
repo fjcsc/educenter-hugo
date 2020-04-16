@@ -1,0 +1,3 @@
+[submodule "themes/website"]
+	path = themes/website
+	url = https://github.com/fjcsc/educenter-hugo.git
